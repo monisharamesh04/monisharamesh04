@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @monisharamesh04
-- 👀 I’m learning, interested in annd also working on Web Development.
+- 👀 I’m learning, interested in and have also working on Web Development.
 - 📫 Reach me: monisha.ramesh04@gmail.com
 
 <!---
