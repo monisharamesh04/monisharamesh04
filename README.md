@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @monisharamesh04
-- 👀 I’m learning, interested in and have also working on Web Development.
+- 👀 I’m a software developer, with a profound interest in Frontend Development.
+
 - 📫 Reach me: monisha.ramesh04@gmail.com
 
 <!---
