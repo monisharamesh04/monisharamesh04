@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Monisha.
 - 👀 I’m a software developer, with a profound interest in Frontend Development. 
-- ✨ I believe an inclusive design can make a difference, a visually appealing interface that's built with an empathetic design powered by continuous user experience feedback can make this difference.
+- ✨ I believe an inclusive design can make a difference and a visually appealing interface that's built with an empathetic design powered by continuous user experience feedback can bring about this difference.
 - 📫 Reach me: monisha.ramesh04@gmail.com
 
 <!---
